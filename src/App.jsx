@@ -4,7 +4,7 @@ import Detail from './components/Detail'
 import Skills from './components/Skills'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import Achive from './components/achive'
+import Achive from './components/Achive'
 
 
 

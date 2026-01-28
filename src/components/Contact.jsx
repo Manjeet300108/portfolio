@@ -21,6 +21,14 @@ const Contact = () => {
                         Send Message
                     </button>
                 </form>
+                {/* Contact Info Box */}
+                <div className="max-w-3xl mx-auto mt-10 p-6 rounded-xl border border-gray-600 bg-[#0f172a]">
+                    <p className="text-gray-400 mb-2">Direct mail me here</p>
+                    <p className="text-cyan-400 font-semibold text-lg">
+                        singh300108@gmail.com
+                    </p>
+                </div>
+
             </section>
         </div>
     )

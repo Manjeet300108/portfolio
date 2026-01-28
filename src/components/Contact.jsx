@@ -15,8 +15,9 @@ const Contact = () => {
                     <textarea
                         placeholder="Your Message"
                         className="p-3 rounded bg-[#0f172a] border border-gray-600 text-white md:col-span-2 h-32 resize-none"
+                        name='msg'
                     ></textarea>
-                    <button type="submit" className="md:col-span-2 bg-cyan-400 text-black py-3 px-6 rounded-full font-semibold hover:scale-105 transition" name='msg'>
+                    <button type="submit" className="md:col-span-2 bg-cyan-400 text-black py-3 px-6 rounded-full font-semibold hover:scale-105 transition" >
                         Send Message
                     </button>
                 </form>

@@ -48,7 +48,7 @@ const Detail = () => {
           <div className="w-full max-w-sm">
             <div className="bg-cyan-400 rounded-3xl p-2 shadow-lg">
               <img
-                src="/img/Manu.jpg"
+                src="/img/Manu.jpeg"
                 alt="Manjeet Singh"
                 className="rounded-3xl w-full h-auto object-cover"
               />

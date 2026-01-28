@@ -36,7 +36,7 @@ const Detail = () => {
       
             {/* Resume Button */}
             <a
-              href="/Manjeet.pdf"
+              href="/Manjeet singh.pdf"
               download
               className="inline-flex items-center gap-2 mt-6 px-6 py-3 rounded-full bg-cyan-400 text-black font-semibold shadow-lg hover:shadow-cyan-500/50 transition duration-300 hover:scale-105"
             >

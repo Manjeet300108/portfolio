@@ -19,8 +19,8 @@ const achive = () => {
         {
           title: "RealTime Tracking App",
           description: "I made a real time tracking app",
-          image: "projects_img/live tracker.png",
-          link: "https://github.com/Manjeet300108/track-app",
+          image: "projects_img/live tracker.jpg",
+          link: "https://track-app-virid.vercel.app/",
           technologies : "Node,Express,socket.io"
         }
       ];

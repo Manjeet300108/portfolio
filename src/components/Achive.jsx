@@ -13,7 +13,7 @@ const achive = () => {
           title: "Pinterest clone Using Node,Express and Mongo",
           description: "Pinterest clone",
           image: "projects_img/pinterest.png",
-          link: "https://github.com/Manjeet300108/pinterest_clone",
+          link: "https://pinterest-clone-nine-steel.vercel.app/",
           technologies : "javascript,Node,Express and Mongo"
         },
         {

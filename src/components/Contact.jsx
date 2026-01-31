@@ -7,7 +7,7 @@ const Contact = () => {
                 <h2 className="text-3xl font-bold mb-12">
                     Contact <span className="text-cyan-400">Me</span>
                 </h2>
-                <form className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6" method='post' action='https://formsubmit.co/9f674333f724fe457a03ddec28a26193'>
+                <form className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6" method='post' action='https://formspree.io/f/xjgrznkq'>
                     <input type="text" placeholder="Full Name" className="p-3 rounded bg-[#0f172a] border border-gray-600 text-white" name='username' />
                     <input type="email" placeholder="Email Address" className="p-3 rounded bg-[#0f172a] border border-gray-600 text-white" name='email' />
                     <input type="text" placeholder="Mobile Number" className="p-3 rounded bg-[#0f172a] border border-gray-600 text-white" name='mobileNumber' />
@@ -22,12 +22,12 @@ const Contact = () => {
                     </button>
                 </form>
                 {/* Contact Info Box */}
-                <div className="max-w-3xl mx-auto mt-10 p-6 rounded-xl border border-gray-600 bg-[#0f172a]">
+                {/* <div className="max-w-3xl mx-auto mt-10 p-6 rounded-xl border border-gray-600 bg-[#0f172a]">
                     <p className="text-gray-400 mb-2">Direct mail me here</p>
                     <p className="text-cyan-400 font-semibold text-lg">
-                        singh300108@gmail.com
+                        dadaji007i@gmail.com
                     </p>
-                </div>
+                </div> */}
 
             </section>
         </div>

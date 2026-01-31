@@ -3,20 +3,6 @@ import React from 'react'
 const achive = () => {
     const projectData = [
         {
-          title: "Rock-Paper-Scissors",
-          description: "A Rock-paper-scissors Game",
-          image: "projects_img/Rock-Paper-Scissors.png",
-          link: "https://github.com/Manjeet300108/Rock-Paper-Scissors",
-          technologies : "Html,Css,javascript"
-        },
-        {
-          title: "Tic-Toc-Toe",
-          description: "Tic-Toc-Toe fully functional",
-          image: "projects_img/Tic-Toc-Toe.png",
-          link: "https://github.com/Manjeet300108/Tic-Toc-Toe",
-          technologies : "Html,Css,javascript"
-        },
-        {
           title: "Weather App",
           description: "weather app using weather api",
           image: "projects_img/weather.png",
@@ -36,13 +22,6 @@ const achive = () => {
           image: "projects_img/live tracker.png",
           link: "https://github.com/Manjeet300108/track-app",
           technologies : "Node,Express,socket.io"
-        },
-        {
-          title: "Random Password Generator",
-          description: "It make random passwords",
-          image: "projects_img/password.png",
-          link: "https://github.com/Manjeet300108/Random-Password-Generator",
-          technologies : "Html,Css,javascript"
         }
       ];
       
